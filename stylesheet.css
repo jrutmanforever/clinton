@@ -11,3 +11,12 @@
         font-size:120px;
         text-align: center;
 }
+.header:hover {
+        background-color: lightgray;
+      }
+[href]:hover {
+        background-color: lightgray;
+}
+#paypal:hover {
+        background-color: lightgray;
+}
